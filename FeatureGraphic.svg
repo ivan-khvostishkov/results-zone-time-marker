@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg3204"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="FeatureGraphic.svg">
+  <defs
+     id="defs3206">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3837"
+       id="linearGradient3843"
+       x1="470"
+       y1="597.36218"
+       x2="530"
+       y2="597.36218"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3837">
+      <stop
+         style="stop-color:#5397f9;stop-opacity:1;"
+         offset="0"
+         id="stop3839" />
+      <stop
+         style="stop-color:#e6f0fe;stop-opacity:1;"
+         offset="1"
+         id="stop3841" />
+    </linearGradient>
+    <linearGradient
+       y2="597.36218"
+       x2="530"
+       y1="597.36218"
+       x1="470"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3202"
+       xlink:href="#linearGradient3837"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="597.36218"
+       x2="530"
+       y1="597.36218"
+       x1="470"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3202-3"
+       xlink:href="#linearGradient3837-6"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient3837-6">
+      <stop
+         style="stop-color:#5397f9;stop-opacity:1;"
+         offset="0"
+         id="stop3839-7" />
+      <stop
+         style="stop-color:#e6f0fe;stop-opacity:1;"
+         offset="1"
+         id="stop3841-5" />
+    </linearGradient>
+    <linearGradient
+       y2="597.36218"
+       x2="530"
+       y1="597.36218"
+       x1="470"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3247"
+       xlink:href="#linearGradient3837-6"
+       inkscape:collect="always" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4125">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.30342031;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4127"
+         width="310.55057"
+         height="151.78433"
+         x="194.26956"
+         y="460.2894" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4129">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.46454927;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4131"
+         width="475.466"
+         height="232.3882"
+         x="285.69247"
+         y="-406.48389"
+         transform="matrix(0.42751885,0.90400644,-0.90400644,0.42751885,0,0)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4133">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.08129232;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4135"
+         width="83.202652"
+         height="40.666027"
+         x="460.53448"
+         y="577.12891" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4137">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.12446196;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4139"
+         width="127.38677"
+         height="62.261406"
+         x="693.35529"
+         y="-227.59767"
+         transform="matrix(0.42751884,0.90400644,-0.90400644,0.42751884,0,0)" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-256.1553"
+     inkscape:cy="382.65379"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2381"
+     inkscape:window-height="825"
+     inkscape:window-x="171"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:snap-bbox="true" />
+  <metadata
+     id="metadata3209">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       transform="matrix(3.4332606,-7.2597729,7.2597729,3.4332606,-5702.4548,2044.7264)"
+       sodipodi:type="arc"
+       style="color:#000000;fill:url(#linearGradient3202);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path5603-11"
+       sodipodi:cx="500"
+       sodipodi:cy="597.36218"
+       sodipodi:rx="30"
+       sodipodi:ry="30"
+       d="m 530,597.36218 a 30,30 0 1 1 -60,0 30,30 0 1 1 60,0 z"
+       inkscape:export-filename="/home/ikh/timeMarker/FeatureGraphic.png"
+       inkscape:export-xdpi="89.92643"
+       inkscape:export-ydpi="89.92643"
+       clip-path="url(#clipPath4137)" />
+    <path
+       d="m 530,597.36218 a 30,30 0 1 1 -60,0 30,30 0 1 1 60,0 z"
+       sodipodi:ry="30"
+       sodipodi:rx="30"
+       sodipodi:cy="597.36218"
+       sodipodi:cx="500"
+       id="path5607-00"
+       style="color:#000000;fill:none;stroke:#c2d9fb;stroke-width:5.31496096;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       transform="matrix(12.295287,0,0,12.295287,-5796.7542,-6878.9996)"
+       inkscape:export-filename="/home/ikh/timeMarker/FeatureGraphic.png"
+       inkscape:export-xdpi="89.92643"
+       inkscape:export-ydpi="89.92643"
+       clip-path="url(#clipPath4133)" />
+    <path
+       transform="matrix(0.9198386,-1.9450371,1.9450371,0.9198386,-749.03915,1091.5461)"
+       sodipodi:type="arc"
+       style="opacity:0.45412843;color:#000000;fill:url(#linearGradient3247);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path5603-11-3"
+       sodipodi:cx="500"
+       sodipodi:cy="597.36218"
+       sodipodi:rx="30"
+       sodipodi:ry="30"
+       d="m 530,597.36218 a 30,30 0 1 1 -60,0 30,30 0 1 1 60,0 z"
+       inkscape:export-filename="/home/ikh/timeMarker/FeatureGraphic.png"
+       inkscape:export-xdpi="89.92643"
+       inkscape:export-ydpi="89.92643"
+       clip-path="url(#clipPath4129)" />
+    <path
+       d="m 530,597.36218 a 30,30 0 1 1 -60,0 30,30 0 1 1 60,0 z"
+       sodipodi:ry="30"
+       sodipodi:rx="30"
+       sodipodi:cy="597.36218"
+       sodipodi:cx="500"
+       id="path5607-00-5"
+       style="opacity:0.45412843;color:#000000;fill:none;stroke:#c2d9fb;stroke-width:5.31496096;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       transform="matrix(3.294151,0,0,3.2941509,-774.30381,-1299.297)"
+       inkscape:export-filename="/home/ikh/timeMarker/FeatureGraphic.png"
+       inkscape:export-xdpi="89.92643"
+       inkscape:export-ydpi="89.92643"
+       clip-path="url(#clipPath4125)" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.99851382;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4036-2"
+       width="1023.0015"
+       height="499.0015"
+       x="-135.72404"
+       y="217.86143"
+       inkscape:export-filename="/home/ikh/timeMarker/FeatureGraphic.png"
+       inkscape:export-xdpi="89.92643"
+       inkscape:export-ydpi="89.92643" />
+  </g>
+</svg>

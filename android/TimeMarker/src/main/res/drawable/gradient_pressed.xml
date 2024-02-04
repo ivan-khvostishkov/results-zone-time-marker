@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!--http://stackoverflow.com/questions/4381033/multi-gradient-shapes-->
+    <gradient
+        android:angle="90"
+        android:endColor="#88b3f0"
+        android:startColor="#1b76f7" />
+
+</shape>

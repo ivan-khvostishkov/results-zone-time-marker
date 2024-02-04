@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org3.sport.timemarker.v1"
+    android:versionName="0.7.2"
+    android:versionCode="7"
+    >
+
+    <!-- NOTE: this is a public API -->
+
+    <!--
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="19" />
+        -->
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:allowBackup="true"
+            android:icon="@drawable/ic_launcher"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
+
+            <!-- Note: we disable landscape orientation because encourage users to hold device
+            in left or right hand and press volume up / down hardware keys instead of touching
+            the screen (extremely useful in winter!) Also accidental switch of orientation affects
+            activity lifecycle and hence precision. -->
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".SettingsActivity"
+            android:label="@string/settings_title" >
+        </activity>
+        <activity
+            android:name=".AboutActivity"
+            android:label="@string/about_title" >
+        </activity>
+    </application>
+
+</manifest>

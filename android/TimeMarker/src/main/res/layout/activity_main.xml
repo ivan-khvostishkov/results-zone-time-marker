@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_height="@dimen/title_height"
+        android:layout_width="fill_parent"
+        android:background="#000000"
+        >
+
+        <TextView
+            android:text="@string/app_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffff"
+            android:paddingLeft="14dp"
+            android:layout_centerVertical="true"
+            android:textSize="14sp"
+            />
+
+        <ImageButton
+            android:id="@+id/settings_button"
+            android:layout_height="@dimen/title_height"
+            android:layout_width="@dimen/title_height"
+            android:src="@drawable/ic_action_settings"
+            android:background="@drawable/title_button_background"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:onClick="onClickSettings"
+            android:contentDescription="@string/settings_title" />
+
+        <ImageButton
+            android:id="@+id/share_button"
+            android:layout_height="@dimen/title_height"
+            android:layout_width="@dimen/title_height"
+            android:src="@drawable/ic_action_share"
+            android:background="@drawable/title_button_background"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@id/settings_button"
+            android:onClick="onClickShare"
+            android:contentDescription="@string/share_button" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/view_clock"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:orientation="vertical"
+        android:background="@drawable/pin_bg_gradient"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:gravity="center_horizontal"
+        >
+
+        <TextView
+            android:id="@+id/day_of_week"
+            android:text="Sunday"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textColor="#FFFFFF"
+            android:textSize="19sp"
+            />
+
+        <RelativeLayout
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent">
+
+            <ImageView
+                android:id="@+id/pin"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:background="@drawable/pin_1"
+                android:layout_marginLeft="16dp"
+                android:contentDescription="Pin" />
+
+            <LinearLayout
+                android:id="@+id/time_view"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:layout_centerHorizontal="true">
+
+                <TextView
+                    android:id="@+id/time_hh_mm"
+                    android:text="03:54"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#FFFFFF"
+                    android:textStyle="bold"
+                    android:textSize="28sp"
+                    />
+
+                <TextView
+                    android:id="@+id/time_ss_SSS"
+                    android:text=" 43.158"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#FFFFFF"
+                    android:textStyle="bold"
+                    android:textSize="24sp"
+                    />
+
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/tps_text"
+                android:text="± 14 ms"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingRight="16dp"
+                android:textColor="#FFFFFF"
+                android:textSize="12sp"
+                android:layout_alignBottom="@id/time_view"
+                android:paddingBottom="5dp"
+                android:gravity="right"
+                />
+
+            <TextView
+                android:text="Precision"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingRight="16dp"
+                android:textColor="#FFFFFF"
+                android:textSize="12sp"
+                android:layout_alignTop="@id/time_view"
+                android:gravity="right"
+                />
+
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/dd_mmm"
+            android:textStyle="normal"
+            android:text="June 7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:textSize="22sp"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_height="0dp"
+        android:layout_width="fill_parent"
+        android:layout_weight="1"
+        >
+
+        <ListView
+            android:id="@+id/timestamp_list"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:drawSelectorOnTop="false"
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp"
+            />
+
+    </LinearLayout>
+
+
+    <Button android:id="@+id/button_mark_timestamp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mark"
+        android:textColor="#FFFFFF"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:textSize="22sp"
+        android:background="@drawable/pin_bg_gradient"
+        android:drawableTop="@drawable/pin_button"
+        />
+
+</LinearLayout>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBoxPreference
+        android:key="volume_mark"
+        android:title="Volume mark"
+        android:summary="Mark with volume up / down keys"
+        android:defaultValue="false" />
+
+
+    <ListPreference
+        android:key="clock_sync"
+        android:title="Clock sync"
+        android:defaultValue="ntp"
+        android:entries="@array/sync_clock_titles"
+        android:entryValues="@array/sync_clock_values"
+        android:negativeButtonText="@null"
+        android:positiveButtonText="@null" />
+
+    <CheckBoxPreference
+        android:key="tick_sound"
+        android:title="Tick sound"
+        android:summary="At start of every second"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="mark_sound"
+        android:title="Mark sound"
+        android:defaultValue="true" />
+
+    <Preference
+        android:key="clear_markers_history"
+        android:title="Remove all markers"
+        android:summary="Clear markers history"
+        >
+    </Preference>
+
+    <Preference
+        android:key="about"
+        android:title="About"
+        >
+    </Preference>
+
+</PreferenceScreen>

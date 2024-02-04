@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg3231"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="UserInterface.svg">
+  <defs
+     id="defs3">
+    <linearGradient
+       id="linearGradient3837">
+      <stop
+         style="stop-color:#5397f9;stop-opacity:1;"
+         offset="0"
+         id="stop3839" />
+      <stop
+         style="stop-color:#e6f0fe;stop-opacity:1;"
+         offset="1"
+         id="stop3841" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3837"
+       id="linearGradient3843"
+       x1="470"
+       y1="597.36218"
+       x2="530"
+       y2="597.36218"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-units="mm"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="317.50201"
+     inkscape:cy="417.86999"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-bbox="true"
+     inkscape:window-width="2501"
+     inkscape:window-height="1416"
+     inkscape:window-x="59"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox-midpoints="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3243" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#dddddd;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3237"
+       width="259.87817"
+       height="489.87817"
+       x="100.12184"
+       y="222.48402" />
+    <rect
+       style="fill:#dddddd;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3239"
+       width="214.77319"
+       height="269.77319"
+       x="450.22681"
+       y="222.58899" />
+    <rect
+       style="fill:#6e6e6e;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect4013"
+       width="260"
+       height="15"
+       x="100"
+       y="222.36218" />
+    <rect
+       style="fill:#858585;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect4023"
+       width="260"
+       height="45"
+       x="100"
+       y="237.36218" />
+    <rect
+       style="fill:#6e6e6e;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect4013-6"
+       width="215"
+       height="15"
+       x="450"
+       y="222.36218" />
+    <rect
+       style="fill:#858585;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect4023-8"
+       width="215"
+       height="40"
+       x="450"
+       y="237.36218" />
+    <rect
+       style="fill:#9d9d9d;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect4027-3"
+       width="56.42857"
+       height="20"
+       x="598.57141"
+       y="247.36218" />
+    <rect
+       style="fill:#c6c6c6;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect4090"
+       width="260"
+       height="95"
+       x="100"
+       y="282.36218" />
+    <rect
+       style="fill:#c6c6c6;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect4092"
+       width="260"
+       height="50"
+       x="100"
+       y="662.36218" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="212.50702"
+       y="703.87744"
+       id="text4098"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4100"
+         x="212.50702"
+         y="703.87744">Mark</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="190"
+       y="307.36218"
+       id="text5560"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5562"
+         x="190"
+         y="307.36218">Wednesday</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="187.24219"
+       y="332.13562"
+       id="text5564"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5566"
+         x="187.24219"
+         y="332.13562">10:55</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="205"
+       y="357.36218"
+       id="text5568"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5570"
+         x="205"
+         y="357.36218">June 17</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="237.46191"
+       y="332.16394"
+       id="text5572"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5574"
+         x="237.46191"
+         y="332.16394">33.246</tspan></text>
+    <rect
+       style="fill:#b1b1b1;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect5576"
+       width="230"
+       height="25"
+       x="115"
+       y="392.36218" />
+    <rect
+       style="fill:#b1b1b1;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect5576-1"
+       width="230"
+       height="25"
+       x="115"
+       y="427.36218" />
+    <rect
+       style="fill:#b1b1b1;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect5576-3"
+       width="230"
+       height="25"
+       x="115"
+       y="462.36218" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#5397f9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path5603"
+       sodipodi:cx="500"
+       sodipodi:cy="597.36218"
+       sodipodi:rx="30"
+       sodipodi:ry="30"
+       d="m 530,597.36218 a 30,30 0 1 1 -60,0 30,30 0 1 1 60,0 z"
+       inkscape:export-filename="/home/ikh/gpsWatch/android/GPSWatch/src/main/res/drawable-xxhdpi/pin_1.png"
+       inkscape:export-xdpi="119.70453"
+       inkscape:export-ydpi="119.70453" />
+    <path
+       d="m 530,597.36218 a 30,30 0 1 1 -60,0 30,30 0 1 1 60,0 z"
+       sodipodi:ry="30"
+       sodipodi:rx="30"
+       sodipodi:cy="597.36218"
+       sodipodi:cx="500"
+       id="path5607"
+       style="color:#000000;fill:none;stroke:#c2d9fb;stroke-width:5.31496095999999962;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       transform="matrix(1.5310422,0,0,1.5310421,-265.52111,-317.22449)"
+       inkscape:export-filename="/home/ikh/gpsWatch/android/GPSWatch/src/main/res/drawable-xxhdpi/pin_1.png"
+       inkscape:export-xdpi="119.70453"
+       inkscape:export-ydpi="119.70453" />
+    <g
+       transform="matrix(0.16362904,0,0,0.16362904,150.18548,579.61639)"
+       id="g5609-8">
+      <path
+         d="m 530,597.36218 c 0,16.56855 -13.43146,30 -30,30 -16.56854,0 -30,-13.43145 -30,-30 0,-16.56854 13.43146,-30 30,-30 16.56854,0 30,13.43146 30,30 z"
+         sodipodi:ry="30"
+         sodipodi:rx="30"
+         sodipodi:cy="597.36218"
+         sodipodi:cx="500"
+         id="path5603-1"
+         style="color:#000000;fill:#5397f9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(1.5310422,0,0,1.5310421,-265.52111,-317.22449)"
+         sodipodi:type="arc"
+         style="color:#000000;fill:none;stroke:#88b3f0;stroke-width:5.31496096;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path5607-0"
+         sodipodi:cx="500"
+         sodipodi:cy="597.36218"
+         sodipodi:rx="30"
+         sodipodi:ry="30"
+         d="m 530,597.36218 c 0,16.56855 -13.43146,30 -30,30 -16.56854,0 -30,-13.43145 -30,-30 0,-16.56854 13.43146,-30 30,-30 16.56854,0 30,13.43146 30,30 z" />
+    </g>
+    <g
+       transform="matrix(0.42421283,0,0,0.42421283,-75.230739,72.148738)"
+       id="g5609-0">
+      <path
+         d="m 530,597.36218 c 0,16.56855 -13.43146,30 -30,30 -16.56854,0 -30,-13.43145 -30,-30 0,-16.56854 13.43146,-30 30,-30 16.56854,0 30,13.43146 30,30 z"
+         sodipodi:ry="30"
+         sodipodi:rx="30"
+         sodipodi:cy="597.36218"
+         sodipodi:cx="500"
+         id="path5603-2"
+         style="color:#000000;fill:#5397f9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(1.5310422,0,0,1.5310421,-265.52111,-317.22449)"
+         sodipodi:type="arc"
+         style="color:#000000;fill:none;stroke:#88b3f0;stroke-width:5.31496096;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path5607-9"
+         sodipodi:cx="500"
+         sodipodi:cy="597.36218"
+         sodipodi:rx="30"
+         sodipodi:ry="30"
+         d="m 530,597.36218 c 0,16.56855 -13.43146,30 -30,30 -16.56854,0 -30,-13.43145 -30,-30 0,-16.56854 13.43146,-30 30,-30 16.56854,0 30,13.43146 30,30 z" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="350"
+       y="322.36218"
+       id="text5648"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="350"
+         y="322.36218"
+         id="tspan5652"
+         style="font-size:10px;text-align:end;text-anchor:end">Precision</tspan><tspan
+         sodipodi:role="line"
+         x="350"
+         y="334.86218"
+         style="font-size:10px;text-align:end;text-anchor:end"
+         id="tspan5660">± 1ms</tspan></text>
+    <path
+       d="m 530,597.36218 a 30,30 0 1 1 -60,0 30,30 0 1 1 60,0 z"
+       sodipodi:ry="30"
+       sodipodi:rx="30"
+       sodipodi:cy="597.36218"
+       sodipodi:cx="500"
+       id="path5664"
+       style="color:#000000;fill:#5397f9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       transform="translate(0,242)"
+       inkscape:export-filename="/home/ikh/gpsWatch/android/GPSWatch/src/main/res/drawable-xxhdpi/pin_button.png"
+       inkscape:export-xdpi="70.202675"
+       inkscape:export-ydpi="70.202675" />
+    <path
+       transform="matrix(1.5310422,0,0,1.5310421,-265.52111,-75.22449)"
+       sodipodi:type="arc"
+       style="color:#000000;fill:none;stroke:#88b3f0;stroke-width:5.31496096;stroke-miterlimit:4;stroke-opacity:0.46666667;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path5666"
+       sodipodi:cx="500"
+       sodipodi:cy="597.36218"
+       sodipodi:rx="30"
+       sodipodi:ry="30"
+       d="m 530,597.36218 a 30,30 0 1 1 -60,0 30,30 0 1 1 60,0 z"
+       inkscape:export-filename="/home/ikh/gpsWatch/android/GPSWatch/src/main/res/drawable-xxhdpi/pin_button.png"
+       inkscape:export-xdpi="70.202675"
+       inkscape:export-ydpi="70.202675" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#5397f9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path5670"
+       sodipodi:cx="500"
+       sodipodi:cy="597.36218"
+       sodipodi:rx="30"
+       sodipodi:ry="30"
+       d="m 530,597.36218 a 30,30 0 1 1 -60,0 30,30 0 1 1 60,0 z"
+       transform="translate(0,358)" />
+    <path
+       d="m 530,597.36218 a 30,30 0 1 1 -60,0 30,30 0 1 1 60,0 z"
+       sodipodi:ry="30"
+       sodipodi:rx="30"
+       sodipodi:cy="597.36218"
+       sodipodi:cx="500"
+       id="path5672"
+       style="color:#000000;fill:none;stroke:#c9ddf8;stroke-width:5.31496096;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       transform="matrix(1.5310422,0,0,1.5310421,-265.52111,40.77551)" />
+    <g
+       id="g3824"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/ikh/gpsWatch/android/GPSWatch/src/main/res/drawable-xxhdpi/pin_button.png"
+       transform="translate(0,360)">
+      <path
+         d="m 530,597.36218 c 0,16.56855 -13.43146,30 -30,30 -16.56854,0 -30,-13.43145 -30,-30 0,-16.56854 13.43146,-30 30,-30 16.56854,0 30,13.43146 30,30 z"
+         sodipodi:ry="30"
+         sodipodi:rx="30"
+         sodipodi:cy="597.36218"
+         sodipodi:cx="500"
+         id="path5603-3"
+         style="color:#000000;fill:#6ca0dc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc"
+         transform="translate(145.00001,-1.4285493)" />
+      <path
+         transform="matrix(1.5310422,0,0,1.5310421,-120.5211,-318.65304)"
+         sodipodi:type="arc"
+         style="color:#000000;fill:none;stroke:#6ca0dc;stroke-width:5.31496096;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path5607-6"
+         sodipodi:cx="500"
+         sodipodi:cy="597.36218"
+         sodipodi:rx="30"
+         sodipodi:ry="30"
+         d="m 530,597.36218 c 0,16.56855 -13.43146,30 -30,30 -16.56854,0 -30,-13.43145 -30,-30 0,-16.56854 13.43146,-30 30,-30 16.56854,0 30,13.43146 30,30 z" />
+    </g>
+    <path
+       inkscape:export-ydpi="70.202675"
+       inkscape:export-xdpi="70.202675"
+       inkscape:export-filename="/home/ikh/gpsWatch/android/GPSWatch/src/main/res/drawable-xxhdpi/pin_button.png"
+       transform="translate(0,110)"
+       sodipodi:type="arc"
+       style="color:#000000;fill:#5397f9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3850"
+       sodipodi:cx="500"
+       sodipodi:cy="597.36218"
+       sodipodi:rx="30"
+       sodipodi:ry="30"
+       d="m 530,597.36218 a 30,30 0 1 1 -60,0 30,30 0 1 1 60,0 z" />
+    <path
+       inkscape:export-ydpi="70.202675"
+       inkscape:export-xdpi="70.202675"
+       inkscape:export-filename="/home/ikh/gpsWatch/android/GPSWatch/src/main/res/drawable-xxhdpi/pin_button.png"
+       d="m 530,597.36218 a 30,30 0 1 1 -60,0 30,30 0 1 1 60,0 z"
+       sodipodi:ry="30"
+       sodipodi:rx="30"
+       sodipodi:cy="597.36218"
+       sodipodi:cx="500"
+       id="path3852"
+       style="color:#000000;fill:none;stroke:#88b3f0;stroke-width:5.31496096;stroke-miterlimit:4;stroke-opacity:0.31372549;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       transform="matrix(1.5310422,0,0,1.5310421,-265.52111,-207.22449)" />
+    <path
+       transform="translate(145.7143,239.28573)"
+       sodipodi:type="arc"
+       style="color:#000000;fill:#5397f9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path5603-0"
+       sodipodi:cx="500"
+       sodipodi:cy="597.36218"
+       sodipodi:rx="30"
+       sodipodi:ry="30"
+       d="m 530,597.36218 a 30,30 0 1 1 -60,0 30,30 0 1 1 60,0 z"
+       inkscape:export-filename="/home/ikh/gpsWatch/android/GPSWatch/src/main/res/drawable-xxhdpi/pin_button.png"
+       inkscape:export-xdpi="80.103065"
+       inkscape:export-ydpi="80.103065" />
+    <path
+       d="m 530,597.36218 a 30,30 0 1 1 -60,0 30,30 0 1 1 60,0 z"
+       sodipodi:ry="30"
+       sodipodi:rx="30"
+       sodipodi:cy="597.36218"
+       sodipodi:cx="500"
+       id="path5607-8"
+       style="color:#000000;fill:none;stroke:#1b76f7;stroke-width:5.31496095999999962;stroke-miterlimit:4;stroke-opacity:0.56470591;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       transform="matrix(1.5310422,0,0,1.5310421,-119.80681,-77.938756)"
+       inkscape:export-filename="/home/ikh/gpsWatch/android/GPSWatch/src/main/res/drawable-xxhdpi/pin_button.png"
+       inkscape:export-xdpi="80.103065"
+       inkscape:export-ydpi="80.103065" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#5397f9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path5670-1"
+       sodipodi:cx="500"
+       sodipodi:cy="597.36218"
+       sodipodi:rx="30"
+       sodipodi:ry="30"
+       d="m 530,597.36218 a 30,30 0 1 1 -60,0 30,30 0 1 1 60,0 z"
+       transform="translate(-149.99999,226.42859)"
+       inkscape:export-filename="/home/ikh/gpsWatch/android/GPSWatch/src/main/res/drawable-xxhdpi/pin_button.png"
+       inkscape:export-xdpi="70.202675"
+       inkscape:export-ydpi="70.202675" />
+    <path
+       d="m 530,597.36218 a 30,30 0 1 1 -60,0 30,30 0 1 1 60,0 z"
+       sodipodi:ry="30"
+       sodipodi:rx="30"
+       sodipodi:cy="597.36218"
+       sodipodi:cx="500"
+       id="path5672-2"
+       style="color:#000000;fill:none;stroke:#c9ddf8;stroke-width:5.31496095999999962;stroke-miterlimit:4;stroke-opacity:0.46666667;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       transform="matrix(1.5310422,0,0,1.5310421,-415.5211,-90.795897)"
+       inkscape:export-filename="/home/ikh/gpsWatch/android/GPSWatch/src/main/res/drawable-xxhdpi/pin_button.png"
+       inkscape:export-xdpi="70.202675"
+       inkscape:export-ydpi="70.202675" />
+    <path
+       transform="matrix(0.42751885,-0.90400644,0.90400644,0.42751885,-582.3501,1027.5533)"
+       sodipodi:type="arc"
+       style="color:#000000;fill:url(#linearGradient3843);fill-opacity:1.0;fill-rule:evenodd;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path5603-11"
+       sodipodi:cx="500"
+       sodipodi:cy="597.36218"
+       sodipodi:rx="30"
+       sodipodi:ry="30"
+       d="m 530,597.36218 a 30,30 0 1 1 -60,0 30,30 0 1 1 60,0 z"
+       inkscape:export-filename="/home/ikh/gpsWatch/android/GPSWatch/src/main/res/drawable-hdpi/ic_launcher.png"
+       inkscape:export-xdpi="64.802475"
+       inkscape:export-ydpi="64.802475" />
+    <path
+       d="m 530,597.36218 a 30,30 0 1 1 -60,0 30,30 0 1 1 60,0 z"
+       sodipodi:ry="30"
+       sodipodi:rx="30"
+       sodipodi:cy="597.36218"
+       sodipodi:cx="500"
+       id="path5607-00"
+       style="color:#000000;fill:none;stroke:#c2d9fb;stroke-width:5.31496096;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       transform="matrix(1.5310422,0,0,1.5310421,-594.09253,-83.653039)"
+       inkscape:export-filename="/home/ikh/gpsWatch/android/GPSWatch/src/main/res/drawable-hdpi/ic_launcher.png"
+       inkscape:export-xdpi="64.802475"
+       inkscape:export-ydpi="64.802475" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="132.14285"
+       y="904.50507"
+       id="text3899"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3901"
+         x="132.14285"
+         y="904.50507">Launcher icon</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="604.04291"
+       y="670.74872"
+       id="text3899-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3901-0"
+         x="604.04291"
+         y="670.74872">Mark button</tspan></text>
+    <path
+       transform="translate(137.14287,1.4285939)"
+       sodipodi:type="arc"
+       style="color:#000000;fill:#75a8f9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.99921260000000001;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path5603-8"
+       sodipodi:cx="500"
+       sodipodi:cy="597.36218"
+       sodipodi:rx="30"
+       sodipodi:ry="30"
+       d="m 530,597.36218 a 30,30 0 1 1 -60,0 30,30 0 1 1 60,0 z"
+       inkscape:export-filename="/home/ikh/timeMarker/android/TimeMarker/src/main/res/drawable-xxhdpi/pin_button.png"
+       inkscape:export-xdpi="64.802452"
+       inkscape:export-ydpi="64.802452" />
+    <path
+       d="m 530,597.36218 a 30,30 0 1 1 -60,0 30,30 0 1 1 60,0 z"
+       sodipodi:ry="30"
+       sodipodi:rx="30"
+       sodipodi:cy="597.36218"
+       sodipodi:cx="500"
+       id="path5607-95"
+       style="color:#000000;fill:none;stroke:#c2d9fb;stroke-width:5.31496095999999962;stroke-miterlimit:4;stroke-opacity:0.6901961;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       transform="matrix(1.5310422,0,0,1.5310421,-128.37824,-315.7959)"
+       inkscape:export-filename="/home/ikh/timeMarker/android/TimeMarker/src/main/res/drawable-xxhdpi/pin_button.png"
+       inkscape:export-xdpi="64.802452"
+       inkscape:export-ydpi="64.802452" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="604.12506"
+       y="260.39685"
+       id="text3052"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3054"
+         x="604.12506"
+         y="260.39685">Settings</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="461.58279"
+       y="260.39685"
+       id="text3056"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3058"
+         x="461.58279"
+         y="260.39685">3sport Time Marker</tspan></text>
+    <rect
+       style="fill:#9d9d9d;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect4027-3-0"
+       width="56.42857"
+       height="20"
+       x="285.42072"
+       y="247.39658" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="290.97437"
+       y="260.43124"
+       id="text3052-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3054-3"
+         x="290.97437"
+         y="260.43124">Settings</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="120.71777"
+       y="260.2196"
+       id="text3056-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3058-6"
+         x="120.71777"
+         y="260.2196">3sport Time Marker</tspan></text>
+  </g>
+</svg>

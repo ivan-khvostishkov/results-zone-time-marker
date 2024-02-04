@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sync_clock_values">
+        <item>off</item>
+        <item>ntp</item>
+        <item>gps</item>
+        <item>gps+ntp</item>
+    </string-array>
+
+    <string-array name="sync_clock_titles">
+        <item>Off</item>
+        <item>Internet time (NTP)</item>
+        <item>GPS</item>
+        <item>GPS + NTP</item>
+    </string-array>
+</resources>

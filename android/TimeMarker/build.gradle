@@ -1,0 +1,60 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:0.8.+'
+    }
+}
+apply plugin: 'android'
+
+repositories {
+    mavenCentral()
+}
+
+def getBuildDateUTC() {
+    def date = new Date()
+    def formattedDate = date.format('dd.MM.yy', TimeZone.getTimeZone("UTC"))
+    return formattedDate
+}
+
+def getBuildTimeUTC() {
+    def date = new Date()
+    def formattedDate = date.format('HH:mm', TimeZone.getTimeZone("UTC"))
+    return formattedDate
+}
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "19.0.0"
+
+    defaultConfig {
+        minSdkVersion 8
+        targetSdkVersion 19
+        buildConfigField "String", "ORG3_SPORT_TIME_MARKER_BUILD_DATE", "\"" + getBuildDateUTC() + "\""
+        buildConfigField "String", "ORG3_SPORT_TIME_MARKER_BUILD_TIME", "\"" + getBuildTimeUTC() + "\""
+    }
+
+    // use androiddebugkey
+
+//    signingConfigs {
+//        release {
+//            storeFile file("Interzone.jks")
+//            storePassword "buttle"
+//            keyAlias "interzone-release"
+//            keyPassword "tuttle"
+//        }
+//    }
+
+//    buildTypes {
+//        release {
+//            signingConfig signingConfigs.release
+//        }
+//    }
+}
+
+
+dependencies {
+    compile 'com.android.support:appcompat-v7:+'
+    compile files('libs/clock-1.2.1.jar')
+}
